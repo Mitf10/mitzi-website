@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mitzi Ramírez Fragoso"
+  site-url: "https://mitf10.github.io/mitzi-website/"
   description: "Estadística, políticas públicas y análisis de datos"
 
   navbar:
