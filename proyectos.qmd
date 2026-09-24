@@ -1,0 +1,33 @@
+---
+title: "Proyectos"
+---
+
+Esta sección reúne aplicaciones, visualizaciones y proyectos desarrollados con R. Los materiales presentados son públicos y no contienen información institucional reservada.
+
+## Aplicaciones interactivas
+
+::: proyecto
+### Visualización de indicadores
+
+Aplicación interactiva desarrollada en R y Shiny para consultar indicadores, tendencias y diferencias territoriales.
+
+[Ver aplicación](https://mitzirf.shinyapps.io/icmm/){.btn .btn
+:::
+
+::: proyecto
+### Análisis espacial
+
+Proyecto de análisis y visualización de patrones territoriales mediante R.
+
+[Ver aplicación](https://01a0d49b-4e26-44ab-0efd-ed0068c6c14c.share.connect.posit.cloud/){.btn .btn
+:::
+
+::: proyecto
+### Procesamiento y visualización de datos
+
+Repositorio con código reproducible para la transformación, análisis y presentación de información.
+
+[Ver repositorio](https://github.com/Mitf10/DatosTesis){.btn .btn-outline
+:::
+
+------------------------------------------------------------------------

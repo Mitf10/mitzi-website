@@ -1,0 +1,72 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.perfil}
+
+::: {.perfil-foto}
+
+<img src="foto-mitzi.jpeg" class="foto-perfil" alt="Fotografía de Mitzi Ramírez Fragoso">
+
+:::
+
+::: {.perfil-texto}
+
+# Mitzi Ramírez Fragoso
+
+## Estadística, políticas públicas y análisis de datos
+
+PhD student at El Colegio de México
+
+<a href="publicaciones.html" class="btn btn-primary">Publicaciones</a>
+<a href="proyectos.html" class="btn btn-outline-primary">Proyectos</a>
+
+:::
+
+:::
+
+## Áreas de trabajo
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+### Estadística aplicada
+
+Análisis, procesamiento y visualización de información mediante R y otras herramientas estadísticas.
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Políticas públicas
+
+Evaluación y análisis de información para sustentar el diseño y seguimiento de políticas públicas.
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Estudios demográficos
+
+Investigación sobre dinámicas poblacionales, desigualdades territoriales y condiciones sociales.
+
+:::
+
+:::
+
+## Formación
+
+**Maestría en Evaluación de Políticas Públicas**  
+Escuela de Políticas Públicas IEXE.
+
+**Ingeniería en Matemática**  
+Instituto Politécnico Nacional.
+
+## Enlaces profesionales
+
+<a href="https://scholar.google.com/citations?user=kR81JbMAAAAJ">Google Scholar</a>  
+<a href="https://github.com/Mitf10">GitHub</a>  
+<a href="https://connect.posit.cloud/mitfragoso">Posit Cloud</a>

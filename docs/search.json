@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mitzi Ramírez Fragoso",
+    "section": "",
+    "text": "PhD student at El Colegio de México\nPublicaciones Proyectos"
+  },
+  {
+    "objectID": "index.html#estadística-políticas-públicas-y-análisis-de-datos",
+    "href": "index.html#estadística-políticas-públicas-y-análisis-de-datos",
+    "title": "Mitzi Ramírez Fragoso",
+    "section": "",
+    "text": "PhD student at El Colegio de México\nPublicaciones Proyectos"
+  },
+  {
+    "objectID": "index.html#áreas-de-trabajo",
+    "href": "index.html#áreas-de-trabajo",
+    "title": "Mitzi Ramírez Fragoso",
+    "section": "Áreas de trabajo",
+    "text": "Áreas de trabajo\n\n\nEstadística aplicada\nAnálisis, procesamiento y visualización de información mediante R y otras herramientas estadísticas.\n\n\nPolíticas públicas\nEvaluación y análisis de información para sustentar el diseño y seguimiento de políticas públicas.\n\n\nEstudios demográficos\nInvestigación sobre dinámicas poblacionales, desigualdades territoriales y condiciones sociales."
+  },
+  {
+    "objectID": "index.html#formación",
+    "href": "index.html#formación",
+    "title": "Mitzi Ramírez Fragoso",
+    "section": "Formación",
+    "text": "Formación\nMaestría en Evaluación de Políticas Públicas\nEscuela de Políticas Públicas IEXE.\nIngeniería en Matemática\nInstituto Politécnico Nacional."
+  },
+  {
+    "objectID": "index.html#enlaces-profesionales",
+    "href": "index.html#enlaces-profesionales",
+    "title": "Mitzi Ramírez Fragoso",
+    "section": "Enlaces profesionales",
+    "text": "Enlaces profesionales\nGoogle Scholar\nGitHub\nPosit Cloud"
+  },
+  {
+    "objectID": "trayectoria.html",
+    "href": "trayectoria.html",
+    "title": "Trayectoria",
+    "section": "",
+    "text": "Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.\nMi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales."
+  },
+  {
+    "objectID": "trayectoria.html#perfil",
+    "href": "trayectoria.html#perfil",
+    "title": "Trayectoria",
+    "section": "",
+    "text": "Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.\nMi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales."
+  },
+  {
+    "objectID": "trayectoria.html#experiencia-profesional",
+    "href": "trayectoria.html#experiencia-profesional",
+    "title": "Trayectoria",
+    "section": "Experiencia profesional",
+    "text": "Experiencia profesional\n\nConsejo Nacional de Población\nJefa de Departamento de Estudios sobre Indígenas y Grupos Vulnerables\nDesarrollo de estimaciones, indicadores, informes y artículos. Procesamiento y visualización de información mediante herramientas estadísticas y geográficas.\nApoyo Técnico en la Investigación\nElaboración y análisis de bases de datos, revisión documental, preparación de informes y desarrollo de presentaciones."
+  },
+  {
+    "objectID": "trayectoria.html#formación-académica",
+    "href": "trayectoria.html#formación-académica",
+    "title": "Trayectoria",
+    "section": "Formación académica",
+    "text": "Formación académica\n\nMaestría en Evaluación de Políticas Públicas\nEscuela de Políticas Públicas IEXE.\n\n\nIngeniería en Matemática\nInstituto Politécnico Nacional.\nTesis: Análisis financiero y planeación estratégica mediante la aplicación de métodos autorregresivos para el estudio de caso de la Industria Peñoles, S. A. de C. V."
+  },
+  {
+    "objectID": "trayectoria.html#formación-complementaria-seleccionada",
+    "href": "trayectoria.html#formación-complementaria-seleccionada",
+    "title": "Trayectoria",
+    "section": "Formación complementaria seleccionada",
+    "text": "Formación complementaria seleccionada\n\nAnálisis de datos demográficos en R.\nInterpretación, presentación y redacción de resultados estadísticos.\nIntroducción al análisis demográfico.\nSeries de tiempo.\nElementos fundamentales del diseño de encuestas por muestreo y precisiones estadísticas.\nBayesian Population Projections: Theory and Practice.\nDemographic Analysis and Population Projection System.\nMatemáticas financieras."
+  },
+  {
+    "objectID": "trayectoria.html#herramientas",
+    "href": "trayectoria.html#herramientas",
+    "title": "Trayectoria",
+    "section": "Herramientas",
+    "text": "Herramientas\n\nR y RStudio\nShiny\nAnálisis estadístico\nVisualización de datos\nAnálisis espacial\nSistemas de información geográfica"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Esta sección reúne aplicaciones, visualizaciones y proyectos desarrollados con R. Los materiales presentados son públicos y no contienen información institucional reservada."
+  },
+  {
+    "objectID": "proyectos.html#aplicaciones-interactivas",
+    "href": "proyectos.html#aplicaciones-interactivas",
+    "title": "Proyectos",
+    "section": "Aplicaciones interactivas",
+    "text": "Aplicaciones interactivas\n\nVisualización de indicadores\nAplicación interactiva desarrollada en R y Shiny para consultar indicadores, tendencias y diferencias territoriales.\nVer aplicación{.btn .btn\n\n\nAnálisis espacial\nProyecto de análisis y visualización de patrones territoriales mediante R.\nVer aplicación{.btn .btn\n\n\nProcesamiento y visualización de datos\nRepositorio con código reproducible para la transformación, análisis y presentación de información.\nVer repositorio{.btn .btn-outline"
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "En esta sección se presenta una selección de publicaciones. La relación completa puede consultarse en mi perfil de Google Scholar.\nENLACE_GOOGLE_SCHOLAR{.btn .btn-primary}"
+  },
+  {
+    "objectID": "publicaciones.html#artículos-y-capítulos",
+    "href": "publicaciones.html#artículos-y-capítulos",
+    "title": "Publicaciones",
+    "section": "Artículos y capítulos",
+    "text": "Artículos y capítulos\n\nNiveles y tendencias de la fecundidad en niñas y adolescentes de 10 a 14 años en México\nNotas de Población, volumen XLV, número 106, 2018, pp. 117-152.\nConsultar publicación\n\n\nMetodología para la estimación de la necesidad insatisfecha de métodos anticonceptivos en México\nLa situación demográfica de México 2020, pp. 71-118.\nConsultar publicación\n\n\nLos impactos potenciales de la pandemia de la COVID-19 en la salud sexual y reproductiva en México, 2020-2025\nLa situación demográfica de México 2020, pp. 37-70.\nConsultar publicación\n\n\nCondiciones de bienestar en las viviendas de las mujeres indígenas y el ejercicio de sus derechos sexuales y reproductivos\nLa situación demográfica de México 2021, pp. 45-70.\nConsultar publicación"
+  },
+  {
+    "objectID": "publicaciones.html#libros",
+    "href": "publicaciones.html#libros",
+    "title": "Publicaciones",
+    "section": "Libros",
+    "text": "Libros\n\nSituación de los derechos sexuales y reproductivos. República Mexicana. 2018\nCoautora. CONAPO, 2020.\nConsultar libro\n\n\nSituación de los derechos sexuales y reproductivos. Entidades Federativas, 2018\nCoautora. CONAPO, 2023.\nConsultar libro"
+  },
+  {
+    "objectID": "publicaciones.html#divulgación",
+    "href": "publicaciones.html#divulgación",
+    "title": "Publicaciones",
+    "section": "Divulgación",
+    "text": "Divulgación\n\nLa COVID y sus efectos potenciales en la fecundidad en México\nArtículo publicado en Otros Diálogos."
+  },
+  {
+    "objectID": "publicaciones.html#consultar-artículo",
+    "href": "publicaciones.html#consultar-artículo",
+    "title": "Publicaciones",
+    "section": "Consultar artículo",
+    "text": "Consultar artículo"
+  }
+]

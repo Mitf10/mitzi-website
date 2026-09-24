@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mitzi Ramírez Fragoso"
+  description: "Estadística, políticas públicas y análisis de datos"
+
+  navbar:
+    background: "#156159"
+
+    left:
+      - href: index.qmd
+        text: Inicio
+
+      - href: trayectoria.qmd
+        text: Trayectoria
+
+      - href: publicaciones.qmd
+        text: Publicaciones
+
+      - href: proyectos.qmd
+        text: Proyectos
+
+    right:
+      - icon: google
+        href: "https://scholar.google.com/citations?hl=es&user=kR81JbMAAAAJ&sortby=pubdate&scilu=&scisig=AOcXxEUAAAAAarHJl9I3yaLaE5ihBlEUYBDIuPE&gmla=AKCpqFzWjgrboQidwowK5BVIgfyn7UwsA-UlvDp_U02Qt8cpDpw2gYC0a9EwcbgOQNgg3-s5R5R-SL87XeIhdkFIai5hPRGjuwHNZYAOK54qOxFKM9grDYwWXA&sciund=7955811371458714139&gmla=AKCpqFzKWC5HyAsH8jld0wVfZukhEeKGfwnIHjvg52GK60yqgFStvzbzjkfZ7xfW_DCDI45fjRWLG-ovt13-wrGW-gQBbNUY0rnXDhnNayMGhhkVN_eTBCkc&sciund=10816785634137130451"
+        aria-label: Google Scholar
+
+      - icon: github
+        href: "https://github.com/Mitf10"
+        aria-label: GitHub
+
+  page-footer:
+    center: "© 2026 Mitzi Ramírez Fragoso"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-title: "Contenido"
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

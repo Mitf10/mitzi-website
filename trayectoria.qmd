@@ -1,0 +1,55 @@
+---
+title: "Trayectoria"
+---
+
+## Perfil
+
+Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.
+
+Mi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales.
+
+## Experiencia profesional
+
+### Consejo Nacional de Población
+
+**Jefa de Departamento de Estudios sobre Indígenas y Grupos Vulnerables**
+
+Desarrollo de estimaciones, indicadores, informes y artículos. Procesamiento y visualización de información mediante herramientas estadísticas y geográficas.
+
+**Apoyo Técnico en la Investigación**
+
+Elaboración y análisis de bases de datos, revisión documental, preparación de informes y desarrollo de presentaciones.
+
+## Formación académica
+
+### Maestría en Evaluación de Políticas Públicas
+
+Escuela de Políticas Públicas IEXE.
+
+### Ingeniería en Matemática
+
+Instituto Politécnico Nacional.
+
+Tesis: *Análisis financiero y planeación estratégica mediante la aplicación de métodos autorregresivos para el estudio de caso de la Industria Peñoles, S. A. de C. V.*
+
+## Formación complementaria seleccionada
+
+- Análisis de datos demográficos en R.
+- Interpretación, presentación y redacción de resultados estadísticos.
+- Introducción al análisis demográfico.
+- Series de tiempo.
+- Elementos fundamentales del diseño de encuestas por muestreo y precisiones estadísticas.
+- Bayesian Population Projections: Theory and Practice.
+- Demographic Analysis and Population Projection System.
+- Matemáticas financieras.
+
+## Herramientas
+
+- R y RStudio
+- Shiny
+- Análisis estadístico
+- Visualización de datos
+- Análisis espacial
+- Sistemas de información geográfica
+
+---

@@ -1,0 +1,153 @@
+/* Tipografía y colores generales */
+
+:root {
+  --verde-principal: #156159;
+  --verde-secundario: #209286;
+  --verde-claro: #2CC3B4;
+  --gris-texto: #333333;
+  --gris-fondo: #f6f8f8;
+}
+
+body {
+  font-family: "Century Gothic", "Avenir", "Segoe UI", sans-serif;
+  color: var(--gris-texto);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Barra de navegación */
+
+.navbar {
+  background-color: var(--verde-principal) !important;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.navbar-title,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d8f5f1 !important;
+}
+
+/* Encabezados */
+
+h1 {
+  color: var(--verde-principal);
+  font-weight: 700;
+}
+
+h2 {
+  color: var(--verde-secundario);
+  margin-top: 2rem;
+}
+
+h3 {
+  color: var(--verde-principal);
+}
+
+/* Presentación */
+
+.perfil {
+  display: flex;
+  align-items: center;
+  gap: 3.5rem;
+  padding: 3rem 0 4rem 0;
+}
+
+.perfil-foto {
+  flex: 0 0 280px;
+}
+
+.perfil-texto {
+  flex: 1;
+}
+
+.foto-perfil {
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 6px solid #e2f2f0;
+}
+
+.perfil-texto h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.perfil-texto h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+/* Botones */
+
+.btn-primary {
+  background-color: var(--verde-principal);
+  border-color: var(--verde-principal);
+}
+
+.btn-primary:hover {
+  background-color: var(--verde-secundario);
+  border-color: var(--verde-secundario);
+}
+
+.btn-outline-primary {
+  color: var(--verde-principal);
+  border-color: var(--verde-principal);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--verde-principal);
+  border-color: var(--verde-principal);
+}
+
+/* Enlaces */
+
+a {
+  color: var(--verde-principal);
+}
+
+a:hover {
+  color: var(--verde-secundario);
+}
+
+/* Proyectos */
+
+.proyecto {
+  background-color: var(--gris-fondo);
+  border-left: 5px solid var(--verde-secundario);
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Pie */
+
+.nav-footer {
+  background-color: var(--verde-principal);
+  color: white;
+  margin-top: 4rem;
+}
+
+/* Diseño para móvil */
+
+@media (max-width: 768px) {
+  .perfil {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .perfil-texto h1 {
+    font-size: 2.2rem;
+  }
+
+  .foto-perfil {
+    width: 220px;
+    height: 220px;
+  }
+}

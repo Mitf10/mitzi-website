@@ -1,0 +1,56 @@
+---
+title: "Publicaciones"
+---
+
+En esta sección se presenta una selección de publicaciones. La relación completa puede consultarse en mi perfil de Google Scholar.
+
+ENLACE_GOOGLE_SCHOLAR{.btn .btn-primary}
+
+## Artículos y capítulos
+
+### Niveles y tendencias de la fecundidad en niñas y adolescentes de 10 a 14 años en México
+
+**Notas de Población**, volumen XLV, número 106, 2018, pp. 117-152.
+
+[Consultar publicación](https://www.un-ilibrary.org/content/journals/16810333/45/106/5)
+
+### Metodología para la estimación de la necesidad insatisfecha de métodos anticonceptivos en México
+
+**La situación demográfica de México 2020**, pp. 71-118.
+
+[Consultar publicación](https://www.gob.mx/conapo/documentos/la-situacion-demografica-de-mexico-2020)
+
+### Los impactos potenciales de la pandemia de la COVID-19 en la salud sexual y reproductiva en México, 2020-2025
+
+**La situación demográfica de México 2020**, pp. 37-70.
+
+[Consultar publicación](https://www.gob.mx/conapo/documentos/la-situacion-demografica-de-mexico-2020)
+
+### Condiciones de bienestar en las viviendas de las mujeres indígenas y el ejercicio de sus derechos sexuales y reproductivos
+
+**La situación demográfica de México 2021**, pp. 45-70.
+
+[Consultar publicación](https://www.gob.mx/conapo/documentos/la-situacion-demografica-de-mexico-2021)
+
+## Libros
+
+### Situación de los derechos sexuales y reproductivos. República Mexicana. 2018
+
+Coautora. CONAPO, 2020.
+
+[Consultar libro](https://www.gob.mx/conapo/documentos/situacion-de-los-derechos-sexuales-y-reproductivos-republica-mexicana-2018?idiom=es)
+
+### Situación de los derechos sexuales y reproductivos. Entidades Federativas, 2018
+
+Coautora. CONAPO, 2023.
+
+[Consultar libro](https://www.gob.mx/conapo/documentos/situacion-de-los-derechos-sexuales-y-reproductivos-entidades-federativas-2018)
+
+## Divulgación
+
+### La COVID y sus efectos potenciales en la fecundidad en México
+
+Artículo publicado en *Otros Diálogos*.
+
+[Consultar artículo](https://otrosdialogos.colmex.mx/la-covid-y-sus-efectos-potenciales-en-la-fecundidad-en-mexico)
+---
