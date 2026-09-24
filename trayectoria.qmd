@@ -4,9 +4,7 @@ title: "Trayectoria"
 
 ## Perfil
 
-Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.
-
-Mi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales.
+Análisis de datos en materia de aborto, fecundidad y salud sexual y reproductiva
 
 ## Experiencia profesional
 
@@ -24,13 +22,11 @@ Elaboración y análisis de bases de datos, revisión documental, preparación d
 
 ### Maestría en Evaluación de Políticas Públicas
 
-Escuela de Políticas Públicas IEXE.
-
 ### Ingeniería en Matemática
 
 Instituto Politécnico Nacional.
 
-Tesis: *Análisis financiero y planeación estratégica mediante la aplicación de métodos autorregresivos para el estudio de caso de la Industria Peñoles, S. A. de C. V.*
+
 
 ## Formación complementaria seleccionada
 
@@ -46,7 +42,7 @@ Tesis: *Análisis financiero y planeación estratégica mediante la aplicación 
 ## Herramientas
 
 - R y RStudio
-- Shiny
+- R Markdown
 - Análisis estadístico
 - Visualización de datos
 - Análisis espacial

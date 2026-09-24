@@ -176,8 +176,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="perfil" class="level2">
 <h2 class="anchored" data-anchor-id="perfil">Perfil</h2>
-<p>Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.</p>
-<p>Mi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales.</p>
+<p>Análisis de datos en materia de aborto, fecundidad y salud sexual y reproductiva</p>
 </section>
 <section id="experiencia-profesional" class="level2">
 <h2 class="anchored" data-anchor-id="experiencia-profesional">Experiencia profesional</h2>
@@ -193,12 +192,10 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="formación-académica">Formación académica</h2>
 <section id="maestría-en-evaluación-de-políticas-públicas" class="level3">
 <h3 class="anchored" data-anchor-id="maestría-en-evaluación-de-políticas-públicas">Maestría en Evaluación de Políticas Públicas</h3>
-<p>Escuela de Políticas Públicas IEXE.</p>
 </section>
 <section id="ingeniería-en-matemática" class="level3">
 <h3 class="anchored" data-anchor-id="ingeniería-en-matemática">Ingeniería en Matemática</h3>
 <p>Instituto Politécnico Nacional.</p>
-<p>Tesis: <em>Análisis financiero y planeación estratégica mediante la aplicación de métodos autorregresivos para el estudio de caso de la Industria Peñoles, S. A. de C. V.</em></p>
 </section>
 </section>
 <section id="formación-complementaria-seleccionada" class="level2">
@@ -218,7 +215,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="herramientas">Herramientas</h2>
 <ul>
 <li>R y RStudio</li>
-<li>Shiny</li>
+<li>R Markdown</li>
 <li>Análisis estadístico</li>
 <li>Visualización de datos</li>
 <li>Análisis espacial</li>
@@ -303,7 +300,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/mitf10\.github\.io\/mitzi-website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

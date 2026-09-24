@@ -2,9 +2,9 @@
 title: "Publicaciones"
 ---
 
-En esta sección se presenta una selección de publicaciones. La relación completa puede consultarse en mi perfil de Google Scholar.
+En esta sección se presenta una selección de publicaciones en las que he participado como coautora. La relación completa puede consultarse en mi perfil de Google Scholar.
 
-ENLACE_GOOGLE_SCHOLAR{.btn .btn-primary}
+<a href="https://scholar.google.com/citations?user=kR81JbMAAAAJ">Google Scholar</a>
 
 ## Artículos y capítulos
 

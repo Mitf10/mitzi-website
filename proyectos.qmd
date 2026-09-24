@@ -11,7 +11,7 @@ Esta sección reúne aplicaciones, visualizaciones y proyectos desarrollados con
 
 Aplicación interactiva desarrollada en R y Shiny para consultar indicadores, tendencias y diferencias territoriales.
 
-[Ver aplicación](https://mitzirf.shinyapps.io/icmm/){.btn .btn
+[Ver aplicación](https://mitzirf.shinyapps.io/icmm/)
 :::
 
 ::: proyecto
@@ -19,7 +19,7 @@ Aplicación interactiva desarrollada en R y Shiny para consultar indicadores, te
 
 Proyecto de análisis y visualización de patrones territoriales mediante R.
 
-[Ver aplicación](https://01a0d49b-4e26-44ab-0efd-ed0068c6c14c.share.connect.posit.cloud/){.btn .btn
+[Ver aplicación](https://01a0d49b-4e26-44ab-0efd-ed0068c6c14c.share.connect.posit.cloud/)
 :::
 
 ::: proyecto
@@ -27,7 +27,6 @@ Proyecto de análisis y visualización de patrones territoriales mediante R.
 
 Repositorio con código reproducible para la transformación, análisis y presentación de información.
 
-[Ver repositorio](https://github.com/Mitf10/DatosTesis){.btn .btn-outline
-:::
+[Ver repositorio](https://github.com/Mitf10/DatosTesis)
 
 ------------------------------------------------------------------------

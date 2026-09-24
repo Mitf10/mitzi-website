@@ -39,14 +39,14 @@
     "href": "trayectoria.html",
     "title": "Trayectoria",
     "section": "",
-    "text": "Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.\nMi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales."
+    "text": "Análisis de datos en materia de aborto, fecundidad y salud sexual y reproductiva"
   },
   {
     "objectID": "trayectoria.html#perfil",
     "href": "trayectoria.html#perfil",
     "title": "Trayectoria",
     "section": "",
-    "text": "Profesional especializada en estadística aplicada, análisis de datos, políticas públicas e investigación demográfica.\nMi experiencia incluye la construcción y actualización de indicadores, el procesamiento de bases de datos, la elaboración de diagnósticos, el análisis territorial y la presentación de resultados para públicos especializados y generales."
+    "text": "Análisis de datos en materia de aborto, fecundidad y salud sexual y reproductiva"
   },
   {
     "objectID": "trayectoria.html#experiencia-profesional",
@@ -60,7 +60,7 @@
     "href": "trayectoria.html#formación-académica",
     "title": "Trayectoria",
     "section": "Formación académica",
-    "text": "Formación académica\n\nMaestría en Evaluación de Políticas Públicas\nEscuela de Políticas Públicas IEXE.\n\n\nIngeniería en Matemática\nInstituto Politécnico Nacional.\nTesis: Análisis financiero y planeación estratégica mediante la aplicación de métodos autorregresivos para el estudio de caso de la Industria Peñoles, S. A. de C. V."
+    "text": "Formación académica\n\nMaestría en Evaluación de Políticas Públicas\n\n\nIngeniería en Matemática\nInstituto Politécnico Nacional."
   },
   {
     "objectID": "trayectoria.html#formación-complementaria-seleccionada",
@@ -74,7 +74,7 @@
     "href": "trayectoria.html#herramientas",
     "title": "Trayectoria",
     "section": "Herramientas",
-    "text": "Herramientas\n\nR y RStudio\nShiny\nAnálisis estadístico\nVisualización de datos\nAnálisis espacial\nSistemas de información geográfica"
+    "text": "Herramientas\n\nR y RStudio\nR Markdown\nAnálisis estadístico\nVisualización de datos\nAnálisis espacial\nSistemas de información geográfica"
   },
   {
     "objectID": "proyectos.html",
@@ -88,14 +88,14 @@
     "href": "proyectos.html#aplicaciones-interactivas",
     "title": "Proyectos",
     "section": "Aplicaciones interactivas",
-    "text": "Aplicaciones interactivas\n\nVisualización de indicadores\nAplicación interactiva desarrollada en R y Shiny para consultar indicadores, tendencias y diferencias territoriales.\nVer aplicación{.btn .btn\n\n\nAnálisis espacial\nProyecto de análisis y visualización de patrones territoriales mediante R.\nVer aplicación{.btn .btn\n\n\nProcesamiento y visualización de datos\nRepositorio con código reproducible para la transformación, análisis y presentación de información.\nVer repositorio{.btn .btn-outline"
+    "text": "Aplicaciones interactivas\n\nVisualización de indicadores\nAplicación interactiva desarrollada en R y Shiny para consultar indicadores, tendencias y diferencias territoriales.\nVer aplicación\n\n\nAnálisis espacial\nProyecto de análisis y visualización de patrones territoriales mediante R.\nVer aplicación\n\n\nProcesamiento y visualización de datos\nRepositorio con código reproducible para la transformación, análisis y presentación de información.\nVer repositorio"
   },
   {
     "objectID": "publicaciones.html",
     "href": "publicaciones.html",
     "title": "Publicaciones",
     "section": "",
-    "text": "En esta sección se presenta una selección de publicaciones. La relación completa puede consultarse en mi perfil de Google Scholar.\nENLACE_GOOGLE_SCHOLAR{.btn .btn-primary}"
+    "text": "En esta sección se presenta una selección de publicaciones. La relación completa puede consultarse en mi perfil de Google Scholar.\nGoogle Scholar"
   },
   {
     "objectID": "publicaciones.html#artículos-y-capítulos",
